@@ -1,0 +1,1 @@
+It is a Analog Web Browser Clock created by using JavaScript and CSS.
